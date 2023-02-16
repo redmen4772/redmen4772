@@ -8,4 +8,5 @@
 </div> -->
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=redmen4772&show_icons=true&theme=github_dark) -->
-![image](programWorking.jpg)
+<!-- ![image](programWorking.jpg) -->
+<img style="width:100%" src="./programWorking.jpg"/>
